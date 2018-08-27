@@ -1,0 +1,2 @@
+# CreditCardTrainingCoreMLModel
+iOS CreditCardTrainingCoreMLModel with training data
